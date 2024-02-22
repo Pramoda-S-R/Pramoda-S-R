@@ -20,8 +20,8 @@ Databases: `MySQL`
 
 ## 📫 How to Reach Me
 
-- Email: [pramoda9.2.2004@gmail.com](pramoda9.2.2004@gmail.com)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/pramoda-s-r-1957382b0)
+- Email: [pramoda9.2.2004@gmail.com](https://pramoda9.2.2004@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pramoda-s-r-1957382b0)
 
 ## 😄 Fun Fact
 
