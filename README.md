@@ -16,7 +16,7 @@ Databases: `MySQL`
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pramoda-S-R&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
