@@ -2,7 +2,7 @@
 
 🛠️ What I Do
 
-Data & AI Engineer at G7CR Technologies, building with Python, ML/AI, React, Next.js, Tanstack, JS/TS, and occasionally dabbling in React Native, Flutter, and Java (yes, Minecraft modding).
+Data & AI Engineer at Noventiq Global AI Solutions, building with Python, ML/AI, React, Next.js, Tanstack, JS/TS, and occasionally dabbling in React Native, Flutter, and Java (yes, Minecraft modding).
 
 ⚙️ How I Work
 
